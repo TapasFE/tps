@@ -1,0 +1,25 @@
+{
+  "name": "tps",
+  "version": "0.1.0",
+  "description": "Another front-end engineering tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tps": "./bin/tps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TapasFE/tps.git"
+  },
+  "keywords": [
+    "TapasFE"
+  ],
+  "author": "TapasFE",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/TapasFE/tps/issues"
+  },
+  "homepage": "https://github.com/TapasFE/tps#readme"
+}
